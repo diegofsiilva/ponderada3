@@ -14,23 +14,23 @@ Vamos testar se o usuário **entende** o mapa, interpreta as cores/ícones e con
 
 1. **Pergunta ampla (bem no topo do funil):**  
    “Olhando para essa tela do mapa, o que você acha que ela está tentando te mostrar ou contar?”  
-   → **Objetivo:** Ver o que o usuário entende sozinho, sem nenhuma dica.
+    **Objetivo:** Ver o que o usuário entende sozinho, sem nenhuma dica.
 
 2. **Pergunta de follow-up (ainda aberta):**  
    “Quais elementos do mapa você nota primeiro? O que te chama mais atenção (posições, cores, ícones, linhas etc.)?”  
-   → **Objetivo:** Fazer ele falar sobre o que ele está vendo naturalmente.
+    **Objetivo:** Fazer ele falar sobre o que ele está vendo naturalmente.
 
 3. **Pergunta semi-direcionada:**  
    “Você consegue explicar o que significam as cores dos pins, os ícones de fogo e os círculos cinza que aparecem no mapa?”  
-   → **Objetivo:** Começar a testar se ele entende a legenda e os símbolos.
+    **Objetivo:** Começar a testar se ele entende a legenda e os símbolos.
 
 4. **Pergunta mais específica:**  
    “De acordo com o que você está vendo, qual é a ocorrência ou região com maior prioridade no momento? O que as linhas tracejadas parecem indicar?”  
-   → **Objetivo:** Verificar se ele identifica corretamente “Alta Prioridade” (pin vermelho) e o significado das linhas.
+    **Objetivo:** Verificar se ele identifica corretamente “Alta Prioridade” (pin vermelho) e o significado das linhas.
 
 5. **Pergunta fechada / de praticabilidade (fundo do funil):**  
    “Com base no que aparece nesse mapa agora, que ação ou decisão você tomaria como operador da Suzano?”  
-   → **Objetivo:** Ver se o mapa realmente ajuda a tomar uma decisão real (ex: “vou mandar equipe pro pin vermelho”).
+    **Objetivo:** Ver se o mapa realmente ajuda a tomar uma decisão real (ex: “vou mandar equipe pro pin vermelho”).
 
 ## 4. Objetivo do teste
 Avaliar se o mapa é **claro e útil** para quem vai usar no dia a dia. Queremos descobrir se o usuário entende rápido o que está acontecendo e se consegue agir com base nas informações.
