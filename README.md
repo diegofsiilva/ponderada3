@@ -2,8 +2,7 @@
 **Aluno:** Diego Figueiredo Silva
 
 ## 1. Tela(s) analisada(s)
-![Visão Operacional - Mapa em tempo real](image.png)
-
+<img src="foto.png">
 **Contexto:**  
 Esta é a tela “Visão Operacional” do projeto Suzano. É um mapa interativo em tempo real que mostra ocorrências ativas (pins coloridos) na região de Campo Grande/MS, com filtros de prioridade e lista de ocorrências.
 
