@@ -3,8 +3,8 @@
 
 ## 1. Tela(s) analisada(s)
 <img src="fotob.png">
-**Contexto:**  
-Esta é a tela “Visão Operacional” do projeto Suzano. É um mapa interativo em tempo real que mostra ocorrências ativas (pins coloridos) na região de Campo Grande/MS, com filtros de prioridade e lista de ocorrências.
+
+Esta é a tela “Mapa Operacional” do projeto Suzano. É um mapa interativo em tempo real que mostra ocorrências ativas (pins coloridos) na região de Campo Grande/MS, com filtros de prioridade e lista de ocorrências.
 
 ## 2. Tipo de teste
 **Visualização de dados**  
